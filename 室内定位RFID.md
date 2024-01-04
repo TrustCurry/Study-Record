@@ -90,6 +90,3 @@ International Conference on Information Fusion
 Internet of thing
 
 trans on mobil
-
-
-
